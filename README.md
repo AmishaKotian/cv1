@@ -14,7 +14,7 @@ How to Use
 To use this repository, simply fork or clone it to your own GitHub account. You can then edit the HTML and CSS files to create your own website.
 
 Credits
-This website was created by [Your Name], and is licensed under the MIT License.
+This website was created by Amisha Kotian, and is licensed under the MIT License.
 
 Feedback
 If you have any feedback or suggestions, feel free to create an issue on this repository or contact me directly at your-amishakotian360@gmail.com.
