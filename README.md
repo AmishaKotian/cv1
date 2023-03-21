@@ -17,4 +17,4 @@ Credits
 This website was created by Amisha Kotian, and is licensed under the MIT License.
 
 Feedback
-If you have any feedback or suggestions, feel free to create an issue on this repository or contact me directly at your-amishakotian360@gmail.com.
+If you have any feedback or suggestions, feel free to create an issue on this repository or contact me directly at your- amishakotian360@gmail.com.
