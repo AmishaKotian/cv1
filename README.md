@@ -2,7 +2,7 @@ My First GitHub Pages Repository
 Welcome to my first GitHub Pages repository! This repository contains a simple HTML website that I've created to learn more about GitHub Pages and HTML.
 
 Website Preview
-To preview the website, simply click on the following link: https://username.github.io/repository-name/
+To preview the website, simply click on the following link:https://github.com/AmishaKotian  
 
 Files Included
 The repository includes the following files:
